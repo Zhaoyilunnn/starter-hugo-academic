@@ -38,12 +38,12 @@ sections:
           date_end = "2021-10-01"
           description = """Doing research on quantum circuit simulation using GPUs. Advised by [Prof. Xulong Tang](http://xzt102.github.io/) and [Prof. Jun Yang](https://sites.pitt.edu/~juy9/)"""
         - title = "Master student"
-  	  company = "Beijing University of Posts and Telecommunications"
-  	  company_url = "https://english.bupt.edu.cn/"
-  	  location = "Beijing, China"
-  	  date_start = "2018-09-01"
-  	  date_end = "2021-06-30"
-  	  description = """Doing research on digital signal processing and machine learning. Advised by [Prof. Zhenming Yu](https://see.bupt.edu.cn/info/1051/1260.htm) and [Prof. Kun Xu](https://www.bupt.edu.cn/info/1075/84950.htm)"""
+          company = "Beijing University of Posts and Telecommunications"
+          company_url = "https://english.bupt.edu.cn/"
+          location = "Beijing, China"
+          date_start = "2018-09-01"
+          date_end = "2021-06-30"
+          description = """Doing research on digital signal processing and machine learning. Advised by [Prof. Zhenming Yu](https://see.bupt.edu.cn/info/1051/1260.htm) and [Prof. Kun Xu](https://www.bupt.edu.cn/info/1075/84950.htm)"""
           
     design:
       columns: '2'
