@@ -37,7 +37,7 @@ sections:
           date_start = "2020-09-01"
           date_end = "2021-10-01"
           description = """Doing research on quantum circuit simulation using GPUs. Advised by [Prof. Xulong Tang](http://xzt102.github.io/) and [Prof. Jun Yang](https://sites.pitt.edu/~juy9/)"""
-  	- title = "Master student"
+        - title = "Master student"
   	  company = "Beijing University of Posts and Telecommunications"
   	  company_url = "https://english.bupt.edu.cn/"
   	  location = "Beijing, China"
