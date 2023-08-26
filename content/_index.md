@@ -48,6 +48,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       text: |-
