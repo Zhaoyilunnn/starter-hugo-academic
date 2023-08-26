@@ -7,6 +7,6 @@ authors: ["Yilun Zhao", "Yanan Guo", "Yuan Yao", "Amanda Dumi", "Devin M Mulvey"
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA)*"
+publication: "*2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA). Acceptance Ratio: 80/273 = 29%*"
 ---
 
