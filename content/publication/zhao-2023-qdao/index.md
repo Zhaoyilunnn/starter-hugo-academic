@@ -7,7 +7,7 @@ authors: ["Yilun Zhao", "Yu Chen", "He Li", "Ying Wang", "Kaiyan Chang", "Bingme
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*"
+publication: "*2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD). Acceptance Ratio: 172/750 = 22.9%*"
 
 # Links
 url_pdf: ''
