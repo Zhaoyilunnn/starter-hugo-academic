@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at [ICT, CAS](http://english.ict.cas.cn/) working with [Prof. Ying Wang](https://wangying-ict.github.io/). 
+I am a PhD student at [ICT, CAS](http://english.ict.cas.cn/) advised by [Prof. Ying Wang](https://wangying-ict.github.io/). My primary research interest is in quantum computer system.
