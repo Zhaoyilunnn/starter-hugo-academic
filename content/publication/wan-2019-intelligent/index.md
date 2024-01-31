@@ -6,7 +6,7 @@ authors:
 - Zhiquan Wan
 - Zhenming Yu
 - Liang Shu
-- "**Yilun Zhao**"
+- "Yilun Zhao"
 - Haojie Zhang
 - Kun Xu
 publication_types: ["2"]
