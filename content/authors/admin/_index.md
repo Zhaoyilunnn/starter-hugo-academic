@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yilun Zhao (赵逸伦)
+title: Yilun Zhao
 
 # Username (this should match the folder name)
 authors:
@@ -82,5 +82,5 @@ user_groups:
 highlight_name: true
 ---
 
-I am a PhD student at [ICT, CAS](http://english.ict.cas.cn/) advised by [Prof. Ying Wang](https://wangying-ict.github.io/). 
+I am Yilun Zhao (赵逸伦), a PhD student at [ICT, CAS](http://english.ict.cas.cn/) advised by [Prof. Ying Wang](https://wangying-ict.github.io/). 
 My research interest lies in all aspects of quantum computer systems.
