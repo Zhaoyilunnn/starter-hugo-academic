@@ -6,6 +6,10 @@ title: Yilun Zhao (赵逸伦)
 authors:
 - admin
 
+# Full name (for SEO)
+first_name: Yilun 
+last_name: Zhao
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -73,6 +77,9 @@ social:
 user_groups:
 - Researchers
 - Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am a PhD student at [ICT, CAS](http://english.ict.cas.cn/) advised by [Prof. Ying Wang](https://wangying-ict.github.io/). 
