@@ -1,8 +1,8 @@
 ---
 
 title: "Distributed-HISQ: A Distributed Quantum Control Architecture"
-date: 
-publishDate:  
+date: 2025-01-01
+publishDate: 
 authors: [admin, "Kangding Zhao", "Peng Zhou", "Dingdong Liu", "Tingyu Luo", "Yuzhen Zheng", "Peng Luo", "Shun Hu", "Jin Lin", "Cheng Guo", "Yinhe Han", "Ying Wang", "Mingtang Deng", "Junjie Wu", "Xiang Fu"]
 publication_types: ["1"]
 abstract: ""
