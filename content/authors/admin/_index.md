@@ -37,7 +37,9 @@ profiles:
 
 # Research interests
 interests:
-  - Quantum Computer Systems
+  - Quantum Computer Architecture
+  - Quantum Circuit Simulation
+  - Quantum Circuit Design Automation
 
 # Education
 education:
