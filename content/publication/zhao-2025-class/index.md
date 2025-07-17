@@ -3,7 +3,16 @@
 title: "CLASS: A Controller-Centric Layout Synthesizer for Dynamic Quantum Circuits"
 date: 2025-01-01
 publishDate: 
-authors: ["Yu Chen*", "Yilun Zhao*", "Bing Li", "He Li", "Mengdi Wang", "Yinhe Han", "Ying Wang"]
+authors:
+- name: Yu Chen
+  note: '*'
+- name: admin
+  note: '*'
+- name: Bing Li
+- name: He Li
+- name: Mengdi Wang
+- name: Yinhe Han
+- name: Ying Wang
 publication_types: ["1"]
 abstract: ""
 featured: false
