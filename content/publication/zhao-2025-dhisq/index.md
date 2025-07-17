@@ -1,7 +1,7 @@
 ---
 title: "Distributed-HISQ: A Distributed Quantum Control Architecture"
 authors:
-- Yilun Zhao
+- admin
 - Kangding Zhao
 - Peng Zhou
 - Dingdong Liu
