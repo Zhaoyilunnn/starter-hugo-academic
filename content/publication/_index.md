@@ -12,4 +12,8 @@ view: 4
 header:
   caption: ""
   image: ""
+
+
+* means equal contribution
+
 ---
