@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: about.biography
+  - block: about
     id: about
     content:
       title: Biography
