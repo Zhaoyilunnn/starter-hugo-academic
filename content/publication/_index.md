@@ -14,6 +14,7 @@ header:
   image: ""
 
 
-* means equal contribution
 
 ---
+
+\* means equal contribution
