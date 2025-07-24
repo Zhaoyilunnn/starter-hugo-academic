@@ -16,7 +16,7 @@ date: "2025-06-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-26T00:00:00Z"
+publishDate: "2025-06-30T00:00:00Z"
 # publishDate: "2025"
 
 # Publication type.
