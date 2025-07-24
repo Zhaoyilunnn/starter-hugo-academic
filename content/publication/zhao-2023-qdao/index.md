@@ -30,7 +30,7 @@ abstract: ""
 summary: ""
 
 tags: []
-featured: false
+featured: true
 
 # links:
 # - name: ""
