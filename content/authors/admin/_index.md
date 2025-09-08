@@ -45,21 +45,21 @@ interests:
   - Quantum Circuit Design Automation
 
 # Education
-education:
-  - area: PhD in Computer Science
-    institution: Institute of Computing Technology, Chinese Academy of Sciences
-    date_start: 2021-09-01
-    date_end: ''
-    summary: |
-      Advised by [Prof. Ying Wang](https://wangying-ict.github.io/).
-  - area: M.Eng in Information and Communication Engineering
-    institution: Beijing University of Posts and Telecommunications, Beijing, China
-    date_start: 2018-09-01
-    date_end: 2021-06-30
-  - area: B.Eng in Photoelectric Information Science and Engineering
-    institution: Huazhong University of Science and Technology, Wuhan, China
-    date_start: 2014-09-01
-    date_end: 2018-06-30
+# education:
+#   - area: PhD in Computer Science
+#     institution: Institute of Computing Technology, Chinese Academy of Sciences
+#     date_start: 2021-09-01
+#     date_end: ''
+#     summary: |
+#       Advised by [Prof. Ying Wang](https://wangying-ict.github.io/).
+#   - area: M.Eng in Information and Communication Engineering
+#     institution: Beijing University of Posts and Telecommunications, Beijing, China
+#     date_start: 2018-09-01
+#     date_end: 2021-06-30
+#   - area: B.Eng in Photoelectric Information Science and Engineering
+#     institution: Huazhong University of Science and Technology, Wuhan, China
+#     date_start: 2014-09-01
+#     date_end: 2018-06-30
 
 # User groups for People widget
 user_groups:
