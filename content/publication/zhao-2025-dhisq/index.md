@@ -47,7 +47,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'zhao-2025-dhisq.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
