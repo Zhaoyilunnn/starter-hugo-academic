@@ -25,7 +25,7 @@ publishDate: "2025-06-30T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD). Acceptance Ratio: 24.7%*"
+publication: "*2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD). Acceptance Ratio: 24.7%. Best Paper Candidate*"
 publication_short: "ICCAD"
 
 abstract: ""
@@ -39,8 +39,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: 'zhao-2025-class.pdf'
+url_code: 'https://github.com/Zhaoyilunnn/class/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
