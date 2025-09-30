@@ -34,6 +34,8 @@ profiles:
     url: https://www.linkedin.com/in/yilun-zhao-398a07162/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=V6luXGsAAAAJ&hl=zh-CN&oi=sra
+  - icon: brands/github
+    url: https://github.com/Zhaoyilunnn
   - icon: at-symbol
     url: 'mailto:zyilun8@gmail.com'
     label: E-mail Me
