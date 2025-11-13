@@ -26,7 +26,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD). Acceptance Ratio: 24.7%. Best Paper Candidate*"
-publication_short: "ICCAD"
+publication_short: "ICCAD **Best Paper Candidate** Top 1.8%"
 
 abstract: ""
 
