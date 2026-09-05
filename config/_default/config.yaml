@@ -5,6 +5,7 @@
 
 title: Yilun # Website name
 baseURL: 'https://zhaoyilun.org' # Website URL
+timeZone: Asia/Shanghai # Time zone used when displaying dates (owner is in UTC+8 / Beijing)
 
 ############################
 ## LANGUAGE
