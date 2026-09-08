@@ -11,7 +11,6 @@ authors:
 author_notes:
 date: "2026-09-06T00:00:00+08:00"
 # date: "2026"
-doi: "10.1145/3845611"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-09-06T00:00:00+08:00"
@@ -34,10 +33,6 @@ summary: ""
 tags: []
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
