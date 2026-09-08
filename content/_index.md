@@ -57,8 +57,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
+      # Display every publication on the homepage (0 = all pages).
+      count: 0
       filters:
         folders:
           - publication
