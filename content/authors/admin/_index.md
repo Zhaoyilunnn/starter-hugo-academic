@@ -70,5 +70,6 @@ user_groups:
 
 ---
 
-I am Yilun Zhao (赵逸伦), a PhD student at [ICT, CAS](http://english.ict.cas.cn/) advised by [Prof. Ying Wang](https://wangying-ict.github.io/).  
+I am Yilun Zhao (赵逸伦). I obtained my Ph.D. degree from [ICT, CAS](http://english.ict.cas.cn/), where I was advised by [Prof. Ying Wang](https://wangying-ict.github.io/).
+
 My research interest lies in all aspects of quantum computer systems.
