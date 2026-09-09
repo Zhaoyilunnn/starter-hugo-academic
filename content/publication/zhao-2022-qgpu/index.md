@@ -34,9 +34,11 @@ summary: ""
 tags: []
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- icon: link
+  icon_pack: fas
+  name: URL
+  url: "https://doi.org/10.1109/HPCA53966.2022.00059"
 url_pdf: zhao-2022-qgpu.pdf
 url_code: ''
 url_dataset: ''

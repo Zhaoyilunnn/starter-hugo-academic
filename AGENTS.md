@@ -28,8 +28,21 @@ similar entry (conference or journal) and follow these rules:
 
 ## Publication Links and Files
 
-- Do not add a `doi` field, an empty `url_pdf`, or a custom `links` block unless the
-  user explicitly requests one. This avoids unwanted DOI or link badges.
+- Every publication must include its verified official publisher URL in a custom
+  `links` block using the same URL label and link icon:
+
+  ```yaml
+  links:
+  - icon: link
+    icon_pack: fas
+    name: URL
+    url: "https://publisher.example/paper"
+  ```
+
+- Prefer the canonical DOI URL or the publisher's article page. Do not populate the
+  `doi` field; the official URL belongs only in the `links` block so the site uses a
+  consistent URL icon rather than a DOI badge.
+- Do not add an empty `url_pdf` field.
 - When a PDF file is available, place it beside `index.md`, name it after the slug
   (for example `zhao-2025-class.pdf`), and set `url_pdf` to that filename.
 - Use `url_code` only for the paper's public source repository. Leave the other

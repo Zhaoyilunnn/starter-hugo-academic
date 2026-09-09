@@ -32,9 +32,11 @@ summary: ""
 tags: []
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- icon: link
+  icon_pack: fas
+  name: URL
+  url: "https://doi.org/10.1109/ICCAD57390.2023.10323666"
 url_pdf: zhao-2023-qdao.pdf
 url_code: 'https://github.com/Zhaoyilunnn/qdao'
 url_dataset: ''

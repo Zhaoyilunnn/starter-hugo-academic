@@ -30,9 +30,11 @@ summary: ""
 tags: []
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- icon: link
+  icon_pack: fas
+  name: URL
+  url: "https://doi.org/10.1364/OE.27.011281"
 url_pdf: wan-2019-intelligent.pdf
 url_code: ''
 url_dataset: ''

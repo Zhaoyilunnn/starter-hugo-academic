@@ -31,9 +31,11 @@ summary: ""
 tags: []
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- icon: link
+  icon_pack: fas
+  name: URL
+  url: "https://doi.org/10.1109/JLT.2020.2973232"
 url_pdf: zhao-2019-lowcomplexity.pdf
 url_code: ''
 url_dataset: ''

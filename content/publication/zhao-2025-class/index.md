@@ -36,9 +36,11 @@ summary: ""
 tags: []
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- icon: link
+  icon_pack: fas
+  name: URL
+  url: "https://doi.org/10.1109/ICCAD66269.2025.11240650"
 url_pdf: 'zhao-2025-class.pdf'
 url_code: 'https://github.com/Zhaoyilunnn/class/'
 url_dataset: ''
