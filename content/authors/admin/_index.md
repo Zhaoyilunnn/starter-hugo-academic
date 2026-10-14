@@ -20,13 +20,13 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: PhD Student
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)
-    url: http://english.ict.cas.cn/
+# # Role/position/tagline
+# role: PhD Student
+#
+# # Organizations/Affiliations to display in Biography blox
+# organizations:
+#   - name: Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)
+#     url: http://english.ict.cas.cn/
 
 # Social network links
 profiles:
