@@ -65,7 +65,7 @@ sections:
       filters:
         folders:
           - publication
-        category: Quantum Computing Systems & Architecture
+        category: Quantum Computing Systems and Architecture
         exclude_featured: false
     design:
       view: citation

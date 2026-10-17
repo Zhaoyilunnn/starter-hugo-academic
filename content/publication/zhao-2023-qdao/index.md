@@ -30,7 +30,7 @@ abstract: ""
 summary: ""
 
 categories:
-- Quantum Computing Systems & Architecture
+- Quantum Computing Systems and Architecture
 
 tags: []
 featured: true
