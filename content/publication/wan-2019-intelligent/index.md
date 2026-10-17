@@ -27,6 +27,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
+categories:
+- Other Research
+
 tags: []
 featured: false
 

@@ -41,6 +41,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
+categories:
+- Quantum Computing Systems & Architecture
+
 tags: []
 featured: true
 

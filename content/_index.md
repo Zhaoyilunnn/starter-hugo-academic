@@ -57,13 +57,29 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Quantum Computing Systems & Architecture
       text: ""
-      # Display every publication on the homepage (0 = all pages).
+      # Display all publications in this category.
       count: 0
+      order: desc
       filters:
         folders:
           - publication
+        category: Quantum Computing Systems & Architecture
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    id: other-papers
+    content:
+      title: Other Research
+      text: ""
+      count: 0
+      order: desc
+      filters:
+        folders:
+          - publication
+        category: Other Research
         exclude_featured: false
     design:
       view: citation
