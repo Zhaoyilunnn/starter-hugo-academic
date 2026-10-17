@@ -57,7 +57,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Quantum Computing Systems & Architecture
+      title: Quantum Computing Systems
       text: ""
       # Display all publications in this category.
       count: 0
